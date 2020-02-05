@@ -8,7 +8,7 @@ const NavBar = () => {
   return (
     <div>
       <AppBar position="static">
-         <BarSession />
+        <BarSession />
       </AppBar>
     </div>
   );
